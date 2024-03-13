@@ -4,7 +4,7 @@ Bem-vindo ao Jogo de Adivinhação! Este é um pequeno projeto desenvolvido em J
 
 ## Como Jogar
 
-1. Acesse o [link do jogo](https://jogo-adivinhacao-idaqcwobf-vinimeneses-projects.vercel.app/).
+1. Acesse o [link do jogo](https://jogo-adivinhacao-two.vercel.app/).
 2. O jogo fornecerá feedback sobre a sua tentativa, indicando se o número é muito alto, muito baixo ou se você acertou.
 3. Continue tentando até adivinhar o número correto!
 
